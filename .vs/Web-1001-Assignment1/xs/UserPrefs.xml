@@ -1,4 +1,40 @@
 ﻿<Properties StartupConfiguration="{636238DC-0B18-4B59-85F4-12026E4C637A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Web-1001-Assignment1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Web-1001-Assignment1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web-1001-Assignment1/Views/Home/Intro.cshtml">
+    <Files>
+      <File FileName="Web-1001-Assignment1/Controllers/HomeController.cs" Line="29" Column="6" />
+      <File FileName="Web-1001-Assignment1/Views/Home/Intro.cshtml" Line="33" Column="58" />
+      <File FileName="Web-1001-Assignment1/Views/Shared/_Layout.cshtml" Line="39" Column="1" />
+      <File FileName="Web-1001-Assignment1/Views/Home/Index.cshtml" Line="3" Column="1" />
+      <File FileName="Web-1001-Assignment1/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Web-1001-Assignment1" expanded="True">
+            <Node name="Web-1001-Assignment1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Intro.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
