@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    ViewData["Title"] = "Intro Page";
+
+}
+
+
+<div class="text-center">
+    <h3> Toshly Tomy </h3>
+</div>
+
+<html>
+<body>
+
+    <form action="/action_page.php">
+        <label for="number1">Number 1:</label><br>
+        <input type="number" id="number1" name="fname" value="John"><br>
+        <label for="number2">Number 2:</label><br>
+        <input type="number" id="number2" name="lname" value="Doe"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+</html>
+
+@section Blurb
+{
+    <p>This is an intro page! Please fill the below form.</p>
+}
+
