@@ -23,7 +23,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Intro()
+    public IActionResult Intro() //Added the Intro method
     {
         return View();
     }
